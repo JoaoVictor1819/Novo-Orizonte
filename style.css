@@ -179,5 +179,15 @@ footer a{
 .final::after{
     content: '\00A0\1F638';
 }
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid #484747;
+    box-shadow: 1px 4px 8px 3px rgba(0, 0, 0, 0.2);
+}
+.foto{
+    text-align: center;
+}
 
 
