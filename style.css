@@ -156,11 +156,15 @@ footer{
     margin: 20px auto;
     padding: 8px;
     border-radius: 7px;
+    width: 400px;
+    padding: 4px;
+    margin-bottom: 0px;
 }
 footer p{
     text-align: center;
     color: rgb(115, 113, 113);
     font-family: var(--fonte01);
+    
 }
 footer a{
     color: rgb(103, 100, 100);
